@@ -1,0 +1,19 @@
+{
+  "name": "ombb-rotating-calipers",
+  "version": "1.0.0",
+  "description": "Computing oriented minimum bounding boxes in 2D\r ===============================================",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platener/ombb-rotating-calipers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platener/ombb-rotating-calipers/issues"
+  },
+  "homepage": "https://github.com/platener/ombb-rotating-calipers#readme"
+}
