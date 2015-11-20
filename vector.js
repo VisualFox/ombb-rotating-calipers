@@ -14,7 +14,7 @@ function Vector(x, y)
         x = Math.max(x, vec.x);
         y = Math.max(y, vec.y);
     }
-    
+
     this.midpoint = function(vec)
     {
         return new Vector((x+vec.x)*0.5, (y+vec.y)*0.5);
@@ -111,3 +111,6 @@ function Vector(x, y)
         return this.distance(pl);
     }
 };
+
+
+module.exports = Vector
