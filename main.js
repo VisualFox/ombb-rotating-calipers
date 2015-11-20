@@ -1,5 +1,5 @@
 module.exports = {
-  ombb: require('./ombb'),
-  vector: require('./vector'),
-  convexHull: require('./convexhull')
+  OMBB: require('./ombb'),
+  Vector: require('./vector'),
+  ConvexHull: require('./convexhull')
 }
