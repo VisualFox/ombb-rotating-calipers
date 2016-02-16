@@ -3,7 +3,7 @@
 var ON = 0;
 var LEFT = 1;
 var RIGHT = 2;
-var ALMOST_ZERO = 0.00001;
+var ALMOST_ZERO = 0.000001;
 
 function GetSideOfLine(lineStart, lineEnd, point)
 {
